@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51f0388d-8673-4704-87f1-fd2b6702e7aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Part1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/helloworld/META-INF/helloworld.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloworld/META-INF/helloworld.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/helloworld/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloworld/MainKt.class" afterDir="false" />
