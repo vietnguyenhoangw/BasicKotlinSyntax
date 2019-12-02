@@ -4,11 +4,12 @@ import part_3.*
 import part_4.*
 import part_5.*
 import part_6.*
+import part_7.*
 
-fun main() {
+fun main(args: Array<String>) {
     // call function name here:
-    var dog = Animal("Dog", "Lulu", 21)
-    print("${dog.name}, ${dog.age}")
+    var tom_cat = Cat("Red", "Default meow", "Tom")
+    tom_cat.getCatInfo()
 }
 
 /*

@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51f0388d-8673-4704-87f1-fd2b6702e7aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Part6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part7.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld/META-INF/helloworld.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloworld/META-INF/helloworld.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/helloworld/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloworld/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,23 +29,18 @@
   </component>
   <component name="ProjectId" id="1Tb4tq7iNiGZORWlWV4cTzQgvYO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -64,6 +61,18 @@
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -90,5 +99,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="768" height="111" key="GridCell.Tab.0.bottom" timestamp="1575278650017">
+      <screen x="41" y="23" width="1325" height="745" />
+    </state>
+    <state width="768" height="111" key="GridCell.Tab.0.bottom/41.23.1325.745@41.23.1325.745" timestamp="1575278650017" />
+    <state width="768" height="111" key="GridCell.Tab.0.center" timestamp="1575278650017">
+      <screen x="41" y="23" width="1325" height="745" />
+    </state>
+    <state width="768" height="111" key="GridCell.Tab.0.center/41.23.1325.745@41.23.1325.745" timestamp="1575278650017" />
+    <state width="768" height="111" key="GridCell.Tab.0.left" timestamp="1575278650016">
+      <screen x="41" y="23" width="1325" height="745" />
+    </state>
+    <state width="768" height="111" key="GridCell.Tab.0.left/41.23.1325.745@41.23.1325.745" timestamp="1575278650016" />
+    <state width="768" height="111" key="GridCell.Tab.0.right" timestamp="1575278650017">
+      <screen x="41" y="23" width="1325" height="745" />
+    </state>
+    <state width="768" height="111" key="GridCell.Tab.0.right/41.23.1325.745@41.23.1325.745" timestamp="1575278650017" />
+    <state x="623" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1575275274573">
+      <screen x="41" y="23" width="1325" height="745" />
+    </state>
+    <state x="623" y="89" width="672" height="678" key="search.everywhere.popup/41.23.1325.745@41.23.1325.745" timestamp="1575275274573" />
   </component>
 </project>

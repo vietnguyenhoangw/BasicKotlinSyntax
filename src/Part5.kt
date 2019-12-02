@@ -5,17 +5,19 @@ package part_5
  * docs: https://cungdev.com/ham-trong-kotlin-nang-cao/
  */
 
-import java.text.SimpleDateFormat
-import java.util.*
-
-//Top-level function
-fun getCurrentDate() : String {
-    val date = Date()
-    val dateFormat = "dd/MM/yyyy"
-    val sdf = SimpleDateFormat(dateFormat)
-
-    return sdf.format(date)
-}
+///-------------------error
+//import java.text.SimpleDateFormat
+//import java.util.*
+//
+////Top-level function
+//fun getCurrentDate() : String {
+//    val date = Date()
+//    val dateFormat = "dd/MM/yyyy"
+//    val sdf = SimpleDateFormat(dateFormat)
+//
+//    return sdf.format(date)
+//}
+//---------------------------
 
 //Lambda function
 var message = {
@@ -47,14 +49,16 @@ fun printDouble(number : Int, doubleFunction : (Int) -> Int) {
 } // the orther ways to call this function don't using 'printDouble(3, doubleFunction = {a -> a * 2})'
     // is using "it" -> 'printDouble(3) {it * 2}'
 
-fun ex2() {
-    val listPlayer = arrayListOf<String>("Ronaldo", "Messi", "Neymar", "Rua 1 dau", "Mbape", "rollRoyce")
-    val listR = listPlayer.filter {
-        it.startsWith("R", true)
-    }
-
-    println(listR)
-}
+///-------------------error
+//fun ex2() {
+//    val listPlayer = arrayListOf<String>("Ronaldo", "Messi", "Neymar", "Rua 1 dau", "Mbape", "rollRoyce")
+//    val listR = listPlayer.filter {
+//        it.startsWith("R", true)
+//    }
+//
+//    println(listR)
+//}
+///--------------------------
 
 // return in lambda function
 fun testReturnFunction() {
